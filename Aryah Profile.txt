@@ -1,0 +1,7 @@
+Aryan Profile
+
+GitHub: https://github.com/aryankonde
+LinkedIn: https://www.linkedin.com/in/aryan-konde/
+
+/goal I would like to create personal professional profile here https://aryankonde.github.io from https://github.com/aryankonde and more like a professional https://www.linkedin.com/in/aryan-konde/ in different sections, education and experience, along with all the acquired AI agentic IT skills including repos created with short description and outcomes. The profile should also mentioned updated skills and experience in software development from GitHub repos and participation in hackathon challenges, awards own/accomplishments, certifications complemented, etc. from LinkedIn. Plan a good looking personal profile in short but with all the basic and advanced skills and experience required for collaboration with other founders. Use light and dark theme toggle. Obfuscate the contact email as a popup form. Cross hyperlink LinkedIn and GitHub profiles. Use attached LinkedIn scrapped profile, CV, and other docs for participation in hackathon challenges, awards own/accomplishments, certifications complemented, etc. Follow guidelines from https://getzero11.github.io/ Please ask me questions if you need anything or if it is not clear.
+

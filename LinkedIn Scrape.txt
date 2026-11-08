@@ -1,0 +1,630 @@
+https://www.linkedin.com/in/aryan-konde/
+
+Aryan Konde
+He/Him
+
+Analyst @Citi | Past Intern @Prescient Technologies | Past Intern @Citi | SIH ‘24 Winner | Computer Engineering, VIT’26
+
+Pune Division, Maharashtra, India
+
+·
+
+Contact info
+
+
+Vishwakarma Institute Of Technology
+
+My Blog 
+
+Connect
+Message
+
+More
+About
+An aspiring data scientist and AI engineer with a strong passion for machine learning, committed to harnessing data-driven insights to tackle complex challenges and foster innovation across diverse industries.
+
+Activity
+1,741 followers
+
+Aryan Konde
+He/Him
+
+Analyst @Citi | Past Intern @Prescient Technologies | Past Intern @Citi | SIH ‘24 Winner | Computer Engineering, VIT’26
+
+Pune Division, Maharashtra, India
+
+·
+
+Contact info
+
+
+Vishwakarma Institute Of Technology
+
+My Blog 
+
+Connect
+Message
+
+More
+About
+An aspiring data scientist and AI engineer with a strong passion for machine learning, committed to harnessing data-driven insights to tackle complex challenges and foster innovation across diverse industries.
+
+Activity
+1,741 followers
+
+Experience
+Citi India logo
+Analyst
+
+Citi India · Full-time
+
+Aug 2026 - Present · 4 mos
+
+APAC · Hybrid
+
+Present
+
+Prescient Technologies logo
+Intern
+
+Prescient Technologies · Internship
+
+Jan 2026 - Apr 2026 · 4 mos
+
+Pune District, Maharashtra, India · On-site
+
+Citi India logo
+Summer Analyst
+
+Citi India · Internship
+
+Jun 2025 - Jul 2025 · 2 mos
+
+Pune District, Maharashtra, India · On-site
+
+ Agentic AI, REST APIs and +9 skills
+
+Regal Rexnord India logo
+Project Intern
+
+Regal Rexnord India · Internship
+
+Feb 2025 - May 2025 · 4 mos
+
+Pune District, Maharashtra, India · Hybrid
+
+As a Project Intern at Regal Rexnord India from February 2025 to May 2025, I created a task and project management application designed to optimize daily operations, moving beyond the limitations of manual Excel spreadsheets. I developed the application using Microsoft Power Apps to build a user-friendly interface and utilized SharePoint as the backend data source to store and manage project information, ensuring seamless collaboration and data integrity. I also implemented a workflow automation process to send notifications and reminders, improving project tracking and communication, and employed agile methodologies throughout the development lifecycle to ensure timely delivery and stakeholder satisfaction.… more
+
+ JavaScript and Microsoft Excel
+
+
+Education
+
+Vishwakarma Institute Of Technology logo
+Vishwakarma Institute Of Technology
+
+Bachelor of Technology, Computer Engineering
+
+Nov 2022 – Jun 2026
+
+Skills: Computer Engineering
+
+Loyola High School & Junior College Pune logo
+Loyola High School & Junior College Pune
+
+H.S.C. (Higher Secondary School), Computer Science
+
+2020 – 2022
+
+Bharatiya Vidya Bhavan (BVB) logo
+Bharatiya Vidya Bhavan (BVB)
+
+S.S.C. (Primary & Secondary School), Science
+
+2010 – 2020
+
+Licenses & certifications
+
+Oracle logo
+Oracle Cloud Infrastructure 2025 AI Foundations Associate 
+
+Oracle
+
+Issued Aug 2025
+
+Credential ID 102228762OCI25AICFA
+
+Skills: Artificial Intelligence (AI), Oracle Cloud
+
+DeepLearning.AI logo
+Deep Learning Specialization
+
+DeepLearning.AI
+
+Issued May 2025
+
+Credential ID 5PUW99EQYAL3
+
+Show credential
+Skills: Deep Learning
+
+Google logo
+Google Cloud Computing Foundations: Cloud Computing Fundamentals
+
+Google
+
+Issued Apr 2025
+
+DeepLearning.AI logo
+Convolutional Neural Networks
+
+DeepLearning.AI
+
+Issued Feb 2025
+
+Credential ID 57UL1DZW3GUC
+
+Show credential
+Skills: Deep Learning
+
+DeepLearning.AI logo
+Structuring Machine Learning Projects
+
+DeepLearning.AI
+
+Issued Feb 2025
+
+Credential ID YD7QY7HDB1FX
+
+Show credential
+Skills: Deep Learning
+
+DeepLearning.AI logo
+Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+
+DeepLearning.AI
+
+Issued Jan 2025
+
+Credential ID MCGSD3V0ZER8
+
+Show credential
+Skills: Deep Learning
+
+DeepLearning.AI logo
+Neural Networks and Deep Learning
+
+DeepLearning.AI
+
+Issued Jan 2025
+
+Credential ID 5QQADOWPW6F9
+
+Show credential
+Skills: Deep Learning
+
+NVIDIA logo
+Fundamentals of Deep Learning
+
+NVIDIA
+
+Issued Sep 2024
+
+Credential ID 1tO0Ys3ITkGJkXM3sgBKrQ
+
+Show credential
+Skills: Deep Learning
+
+Thumbnail for Certificate
+Certificate
+
+Cognizance, IIT Roorkee logo
+Certificate course on Artificial Intelligence
+
+Cognizance, IIT Roorkee
+
+Issued Jul 2024 · Expires Aug 2034
+
+Credential ID TNCC2404-041667
+
+Show credential
+Skills: Artificial Intelligence (AI)
+
+Thumbnail for Certificate course on Artificial Intelligence, Congnizance’24, IIT Roorkee, 2024
+Certificate course on Artificial Intelligence, Congnizance’24, IIT Roorkee, 2024
+
+Fundamentals of artificial intelligence (AI) and machine learning (ML)
+
+Projects
+
+AI-Accounting Assistant
+
+Apr 2025 – Present
+
+Developed an AI-powered accounting assistant designed to streamline operations through voice commands. This project's architecture uses a speech-to-text engine (Whisper.cpp) to convert user speech into text, which is then processed by a multi-layered Natural Language Processing (NLP) model. This model identifies the user's intent, maps commands to specific application functions, and extracts relevant variables, enabling users to perform complex accounting tasks such as inserting, deleting, or updating records without manual data entry. The system's backend, built with Django, handles business logic and database transactions with MySQL, while a React frontend provides a seamless user experience. This project demonstrates my ability to integrate modern AI techniques with a full-stack development environment to create practical, efficient, and user-centric solutions.… more
+
+ Artificial Intelligence (AI), Retrieval-Augmented Generation (RAG) and +7 skills
+
+RDBMS to Graph Database Converter
+
+Feb 2025 – Apr 2025
+
+1. Developed a framework to migrate relational databases (RDBMS) to a graph database, optimizing data relationships and query performance.
+
+2. Designed schema transformation, built an ETL pipeline, and implemented efficient mapping strategies for seamless data conversion and visualization… more
+
+ MySQL, Neo4j and +2 skills
+
+PostPlus (Smart India Hackathon - Winning Solution)
+
+Sep 2024 – Dec 2024
+
+1. Implemented a dynamic warehouse selection algorithm to minimize delivery time and costs, reducing operational
+costs.
+2. Integrated real-time tracking using Traccar API and a mobile app for customer support and delivery monitoring.
+
+3. Designed an interactive dashboard with MIS reports and visual analytics, improving decision-making and… more
+
+ Django, MySQL and +3 skills
+
+Question Generator from Syllabus
+
+Jul 2024 – Oct 2024
+
+This project is a web application that generates questions from a syllabus PDF file. Users can upload their syllabus, provide a base prompt, and specify the number of questions they want. The application then generates relevant questions and allows users to create and download multiple question papers in PDF format.… more
+
+ Artificial Intelligence (AI), Google Cloud Platform (GCP) and +5 skills
+
+URL Deduplication using Bloom Filter Algorithm
+
+May 2024 – Jun 2024
+
+Implementing a bloom filter algorithm to detect the existence of an URL.
+
+ Algorithms and Data Engineering
+
+
+Associated with Vishwakarma Institute Of Technology
+
+Bilingual Cyberbullying Detection System
+
+Mar 2024 – May 2024
+
+Detection of cyberbullying in Hindi and English texts using Machine Learning.
+
+ Machine Learning
+
+
+Associated with Vishwakarma Institute Of Technology
+
+Sentiment Analysis Chatbot
+
+Jan 2024 – Apr 2024
+
+A chatbot application to detect emotions and provides feedback for better understanding.
+
+ Artificial Intelligence (AI)
+
+
+Associated with Vishwakarma Institute Of Technology
+
+Blood Bank Management System
+
+Jan 2023 – Mar 2023
+
+A web platform for blood banks to manage and track blood availability for different blood groups
+
+ Web Applications, Web Development and +1 skill
+
+
+Associated with Vishwakarma Institute Of Technology
+
+Local Vendor Marketplace Website
+
+Nov 2022 – Dec 2022
+
+A website for local vendors to sell items and display their locations, aimed at competing with larger grocery giants
+
+ Web Applications, Web Development and +1 skill
+
+
+Associated with Vishwakarma Institute Of Technology
+
+Diabetes Prediction using Machine Learning
+
+ Machine Learning
+
+
+Associated with Vishwakarma Institute Of Technology
+
+Sentiment Analysis Chatbot
+
+This project is a sentiment analysis chatbot designed to engage users in conversation, identify their emotional state based on their messages, and provide personalized feedback to help them better understand and manage their feelings. The chatbot utilizes natural language processing (NLP) techniques to analyze user inputs and generate appropriate responses.… more
+
+ Flask, Natural Language Processing (NLP) and +2 skills
+
+Volunteering (2)
+
+Content Coordinator
+
+VIT Social Welfare & Development
+
+Jul 2023 - Jun 2024 · 1 yr
+
+Social Services
+
+Social Welfare and Development Committee
+
+
+Extracurricular Volunteer 
+
+Vishwakarma Institute Of Technology
+
+2022 – 2023
+
+Social Services
+
+Event Planning and Execution Committee
+
+Skills
+
+
+All
+
+Industry Knowledge
+
+Tools & Technologies
+
+Other Skills
+C++ C Cuda Objective-C Metal CMake Other 
+
+1 endorsement
+
+Agentic AI
+
+
+Summer Analyst at Citi India
+
+AI-Accounting Assistant
+
+Oracle Cloud
+
+
+Oracle Cloud Infrastructure 2025 AI Foundations Associate 
+
+Google Cloud Platform (GCP)
+
+Question Generator from Syllabus
+
+AI-Accounting Assistant
+
+LangChain
+
+
+Summer Analyst at Citi India
+
+Vector Databases
+
+
+Summer Analyst at Citi India
+
+Python
+
+
+Summer Analyst at Citi India
+
+AngularJS
+
+
+Summer Analyst at Citi India
+
+REST APIs
+
+
+Summer Analyst at Citi India
+
+Django
+
+PostPlus (Smart India Hackathon - Winning Solution)
+
+Machine Learning
+
+Bilingual Cyberbullying Detection System
+
+Sentiment Analysis Chatbot
+
+Diabetes Prediction using Machine Learning
+
+Deep Learning
+
+
+Fundamentals of Deep Learning
+
+
+Neural Networks and Deep Learning
+
+
+Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+
+Show all 6 details
+React.js
+
+PostPlus (Smart India Hackathon - Winning Solution)
+
+AI-Accounting Assistant
+
+Mcp server
+
+
+Summer Analyst at Citi India
+
+Retrieval-Augmented Generation (RAG)
+
+
+Summer Analyst at Citi India
+
+AI-Accounting Assistant
+
+Natural Language Processing (NLP)
+
+Sentiment Analysis Chatbot
+
+AI-Accounting Assistant
+
+Agile Methodologies
+
+
+Summer Analyst at Citi India
+
+whisper.cpp
+
+AI-Accounting Assistant
+
+PostgreSQL
+
+RDBMS to Graph Database Converter
+
+Neo4j
+
+RDBMS to Graph Database Converter
+
+MySQL
+
+PostPlus (Smart India Hackathon - Winning Solution)
+
+RDBMS to Graph Database Converter
+
+AI-Accounting Assistant
+
+Android
+
+PostPlus (Smart India Hackathon - Winning Solution)
+
+Artificial Intelligence (AI)
+
+Sentiment Analysis Chatbot
+
+Question Generator from Syllabus
+
+AI-Accounting Assistant
+
+Show all 5 details
+Spring Boot
+
+
+Summer Analyst at Citi India
+
+Django REST Framework
+
+
+Summer Analyst at Citi India
+
+Won Smart India Hackathon (SIH) 2024
+
+PostPlus (Smart India Hackathon - Winning Solution)
+
+Show all 4 details
+Data Engineering
+
+URL Deduplication using Bloom Filter Algorithm
+
+Python (Programming Language)
+
+Sentiment Analysis Chatbot
+
+RDBMS to Graph Database Converter
+
+ReportLab 
+
+Question Generator from Syllabus
+
+HTML/CSS
+
+Question Generator from Syllabus
+
+Telematics
+
+Microsoft Excel
+
+
+Project Intern at Regal Rexnord India
+
+WordPress
+
+SQLite
+
+Question Generator from Syllabus
+
+Web Development
+
+Blood Bank Management System
+
+Local Vendor Marketplace Website
+
+Web Design
+
+Blood Bank Management System
+
+Local Vendor Marketplace Website
+
+Web Applications
+
+Blood Bank Management System
+
+Local Vendor Marketplace Website
+
+Algorithms
+
+URL Deduplication using Bloom Filter Algorithm
+
+HTML5
+
+Cascading Style Sheets (CSS)
+
+GitHub
+
+JavaScript
+
+
+Project Intern at Regal Rexnord India
+
+Question Generator from Syllabus
+
+Flask
+
+Question Generator from Syllabus
+
+Sentiment Analysis Chatbot
+
+Computer Engineering
+
+
+Vishwakarma Institute Of Technology
+
+Publications (2)
+BloodStat - A Website for Blood Donation
+
+International Journal for Research in Applied Science and Engineering Technology · Nov 1, 2023
+
+Show publication
+Emergencies are untold! During emergencies one should be smart enough to take swift and reliable decisions. There are many cases where unavailability of blood has led to loss of lives. Thus, to make things systematic in such alarming situations, we have developed a website which would display the availability of blood bank to all the users. This will help keep people and various hospitals updated on the availability of the blood.… more
+
+Bilingual Cyber Bullying Detection System: Enhancing Online Safety
+
+I-SMAC 2024
+
+Show publication
+8th International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud), I-SMAC 2024, to be held at Nepal 3-5, October 2024 (In Press).
+
+Honors & awards
+Won Smart India Hackathon (SIH) 2024
+
+Dec 2024
+
+Road Transport Network Telematics Solution for efficient trucking operations throughout the country for route optimization, live tracking and monitoring, optimal capacity utilization
+
+Thumbnail for Smart India Hackathon
+Smart India Hackathon
+
+Smart India Hackathon is an initiative by the Government of India aimed at addressing pressing problems faced by government departments and private organizations through innovative solutions developed by students.
+
